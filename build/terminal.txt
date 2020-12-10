@@ -1,0 +1,352 @@
+IMAGE NO: 0
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1723 keypoints in 12.4845 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 27.144 ms
+#6 : EXTRACT DESCRIPTORS done
+IMAGE NO: 1
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1759 keypoints in 12.3951 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 18.9854 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 797 pairs in 67.5413 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.974
+first X value of a Lidar points in curr: 7.913
+frame Rate: 10
+TTC Lidar:inside  12.9722
+TTC Camera: 12.317
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 2
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1820 keypoints in 12.5981 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 18.8258 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 779 pairs in 73.8563 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.913
+first X value of a Lidar points in curr: 7.849
+frame Rate: 10
+TTC Lidar:inside  12.264
+TTC Camera: 14.8395
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 3
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1850 keypoints in 13.1596 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.0744 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 843 pairs in 77.3667 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.849
+first X value of a Lidar points in curr: 7.793
+frame Rate: 10
+TTC Lidar:inside  13.9161
+TTC Camera: 62.3153
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 4
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1828 keypoints in 12.5923 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 18.4025 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 792 pairs in 75.6407 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.793
+first X value of a Lidar points in curr: 7.685
+frame Rate: 10
+TTC Lidar:inside  7.11572
+TTC Camera: 11.848
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 5
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1806 keypoints in 12.514 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 18.325 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 817 pairs in 76.0358 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.685
+first X value of a Lidar points in curr: 7.638
+frame Rate: 10
+TTC Lidar:inside  16.2511
+TTC Camera: 11.9731
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 6
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1877 keypoints in 12.5985 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 18.9678 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 805 pairs in 71.6993 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.638
+first X value of a Lidar points in curr: 7.577
+frame Rate: 10
+TTC Lidar:inside  12.4213
+TTC Camera: 11.7556
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 7
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1894 keypoints in 12.1762 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.1698 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 780 pairs in 73.3363 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.577
+first X value of a Lidar points in curr: 7.555
+frame Rate: 10
+TTC Lidar:inside  34.3404
+TTC Camera: 11.6598
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 8
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1889 keypoints in 12.3553 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.2157 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 850 pairs in 78.9615 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.555
+first X value of a Lidar points in curr: 7.475
+frame Rate: 10
+TTC Lidar:inside  9.34376
+TTC Camera: 12.7667
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 9
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1917 keypoints in 12.3205 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.1456 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 842 pairs in 78.444 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.475
+first X value of a Lidar points in curr: 7.434
+frame Rate: 10
+TTC Lidar:inside  18.1318
+TTC Camera: 10.9228
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 10
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1874 keypoints in 12.4743 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.0761 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 832 pairs in 75.3801 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.434
+first X value of a Lidar points in curr: 7.393
+frame Rate: 10
+TTC Lidar:inside  18.0318
+TTC Camera: 15.9945
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 11
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1912 keypoints in 12.3294 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 20.2195 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 857 pairs in 76.649 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.393
+first X value of a Lidar points in curr: 7.205
+frame Rate: 10
+TTC Lidar:inside  3.83244
+TTC Camera: 6.45004
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 12
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1930 keypoints in 12.2852 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.2462 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 849 pairs in 78.5094 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.205
+first X value of a Lidar points in curr: 7.272
+frame Rate: 10
+TTC Lidar:inside  -10.8537
+TTC Camera: 13.9921
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 13
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1881 keypoints in 12.3944 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.1496 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 884 pairs in 83.9513 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.272
+first X value of a Lidar points in curr: 7.194
+frame Rate: 10
+TTC Lidar:inside  9.22307
+TTC Camera: 55.8827
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 14
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1886 keypoints in 12.4668 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 32.1107 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 889 pairs in 104.653 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.194
+first X value of a Lidar points in curr: 7.129
+frame Rate: 10
+TTC Lidar:inside  10.9678
+TTC Camera: 0.73914
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 15
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1957 keypoints in 12.7846 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 20.3705 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 906 pairs in 80.1416 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.129
+first X value of a Lidar points in curr: 7.042
+frame Rate: 10
+TTC Lidar:inside  8.09422
+TTC Camera: 9.8918
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 16
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1888 keypoints in 16.2096 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 21.1087 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 878 pairs in 81.9202 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 7.042
+first X value of a Lidar points in curr: 6.827
+frame Rate: 10
+TTC Lidar:inside  3.17535
+TTC Camera: 10.1262
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 17
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=1919 keypoints in 12.509 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 19.3563 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 914 pairs in 79.1656 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 6.827
+first X value of a Lidar points in curr: 6.896
+frame Rate: 10
+TTC Lidar:inside  -9.99424
+TTC Camera: 7.53898
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+IMAGE NO: 18
+#1 : LOAD IMAGE INTO BUFFER done
+#2 : DETECT & CLASSIFY OBJECTS done
+#3 : CROP LIDAR POINTS done
+#4 : CLUSTER LIDAR POINT CLOUD done
+Shi-Tomasi detection with n=2057 keypoints in 12.6051 ms
+#5 : DETECT KEYPOINTS done
+BRISK descriptor extraction in 20.7269 ms
+#6 : EXTRACT DESCRIPTORS done
+MAT_BF matching for 960 pairs in 98.8775 ms
+#7 : MATCH KEYPOINT DESCRIPTORS done
+BOUNDING BOX MATCHING STARTS
+#8 : TRACK 3D OBJECT BOUNDING BOXES done
+first X value of a Lidar points in prev: 6.896
+first X value of a Lidar points in curr: 6.814
+frame Rate: 10
+TTC Lidar:inside  8.30978
+TTC Camera: 5.87359
+#8 : COMPUTE TTC FOR CAMERA AND LIDAR done
+Writing to O/P file../log/Diwakar_Manickavelu_FinalProject_Camera.csv

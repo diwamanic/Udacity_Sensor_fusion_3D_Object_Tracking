@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/workspace/SFND_3D_Object_Tracking/build",
+  "command": "/usr/bin/g++-5   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/3D_object_tracking.dir/src/camFusion_Student.cpp.o -c /home/workspace/SFND_3D_Object_Tracking/src/camFusion_Student.cpp",
+  "file": "/home/workspace/SFND_3D_Object_Tracking/src/camFusion_Student.cpp"
+},
+{
+  "directory": "/home/workspace/SFND_3D_Object_Tracking/build",
+  "command": "/usr/bin/g++-5   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/3D_object_tracking.dir/src/FinalProject_Camera.cpp.o -c /home/workspace/SFND_3D_Object_Tracking/src/FinalProject_Camera.cpp",
+  "file": "/home/workspace/SFND_3D_Object_Tracking/src/FinalProject_Camera.cpp"
+},
+{
+  "directory": "/home/workspace/SFND_3D_Object_Tracking/build",
+  "command": "/usr/bin/g++-5   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/3D_object_tracking.dir/src/lidarData.cpp.o -c /home/workspace/SFND_3D_Object_Tracking/src/lidarData.cpp",
+  "file": "/home/workspace/SFND_3D_Object_Tracking/src/lidarData.cpp"
+},
+{
+  "directory": "/home/workspace/SFND_3D_Object_Tracking/build",
+  "command": "/usr/bin/g++-5   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/3D_object_tracking.dir/src/matching2D_Student.cpp.o -c /home/workspace/SFND_3D_Object_Tracking/src/matching2D_Student.cpp",
+  "file": "/home/workspace/SFND_3D_Object_Tracking/src/matching2D_Student.cpp"
+},
+{
+  "directory": "/home/workspace/SFND_3D_Object_Tracking/build",
+  "command": "/usr/bin/g++-5   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/3D_object_tracking.dir/src/objectDetection2D.cpp.o -c /home/workspace/SFND_3D_Object_Tracking/src/objectDetection2D.cpp",
+  "file": "/home/workspace/SFND_3D_Object_Tracking/src/objectDetection2D.cpp"
+}
+]
